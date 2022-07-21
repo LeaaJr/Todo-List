@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LeaaJr/Todo-List.git/static/css/main.5c4092d4.chunk.css",
+    "main.js": "/LeaaJr/Todo-List.git/static/js/main.694b62a3.chunk.js",
+    "main.js.map": "/LeaaJr/Todo-List.git/static/js/main.694b62a3.chunk.js.map",
+    "runtime-main.js": "/LeaaJr/Todo-List.git/static/js/runtime-main.d98c3b71.js",
+    "runtime-main.js.map": "/LeaaJr/Todo-List.git/static/js/runtime-main.d98c3b71.js.map",
+    "static/js/2.4c941098.chunk.js": "/LeaaJr/Todo-List.git/static/js/2.4c941098.chunk.js",
+    "static/js/2.4c941098.chunk.js.map": "/LeaaJr/Todo-List.git/static/js/2.4c941098.chunk.js.map",
+    "index.html": "/LeaaJr/Todo-List.git/index.html",
+    "static/css/main.5c4092d4.chunk.css.map": "/LeaaJr/Todo-List.git/static/css/main.5c4092d4.chunk.css.map",
+    "static/js/2.4c941098.chunk.js.LICENSE.txt": "/LeaaJr/Todo-List.git/static/js/2.4c941098.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d98c3b71.js",
+    "static/js/2.4c941098.chunk.js",
+    "static/css/main.5c4092d4.chunk.css",
+    "static/js/main.694b62a3.chunk.js"
+  ]
+}
